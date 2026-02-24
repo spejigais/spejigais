@@ -1,5 +1,13 @@
-QA Portfolio | Toms Liepiņš
-Esmu no tiem, kas nevis vienkārši lieto tehnoloģijas, bet mēģina saprast, kā tās darbojas "zem pārsega". Mana pieredze ir praktiska – no Symbian jailbreak līdz mūsdienu Android drošības mehānismu apiešanai un AM5/Am4 sistēmu būvniecībai. Šis repozitorijs ir izveidots, lai dokumentētu manu pāreju uz programmatūras testēšanas (QA) nozari. Mana pieeja balstās uz gadiem ilgu interesi par ierīču un programmatūras modificēšanu, ko tagad papildinu ar strukturētām QA zināšanām.
+# QA Portfolio | Toms Liepiņš
+
+Esmu no tiem, kas nevis vienkārši lieto tehnoloģijas, bet mēģina saprast, kā tās darbojas **"zem pārsega"**. 
+
+Mana pieredze ir praktiska – no Symbian jailbreak līdz mūsdienu Android drošības mehānismu apiešanai un AM5/AM4 sistēmu būvniecībai. 
+
+---
+
+### 🚀 Par šo repozitoriju
+Šis repozitorijs ir izveidots, lai dokumentētu manu pāreju uz **programmatūras testēšanas (QA) nozari**. Mana pieeja balstās uz gadiem ilgu interesi par ierīču un programmatūras modificēšanu, ko tagad papildinu ar strukturētām QA zināšanām.
 
 🎓 Izglītība un Sertifikāti
 
